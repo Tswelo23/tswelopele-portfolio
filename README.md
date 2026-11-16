@@ -1,75 +1,86 @@
 # 🌐 Tswelopele Setshedi – Portfolio Website
-
-Welcome to my personal portfolio website 👋  
-This site showcases who I am, my skills, projects, and experience as a **Software Developer**.
-
-🔗 **Live Website:**  
-👉 https://tswelopele.netlify.app/
-
+ 
+Welcome to my personal portfolio website 👋
+This site showcases my skills, certifications, projects and experience as a **Software Developer & Cloud Engineer**.
+ 
+🔗 **Live Website:** https://tswelopele.netlify.app/
+ 
 ---
-
+ 
 ## 👨‍💻 About Me
-
-I’m a passionate software developer based in Pretoria, Gauteng, South Africa.  
-I hold a **Diploma in Information Technology (Software Development)** and an **Advanced Diploma in Application Development**.
-
-I enjoy building clean, responsive, and user-focused web applications using modern technologies, with a strong interest in the Microsoft (.NET) stack and front-end development.
-
+ 
+I'm a software developer and cloud engineer based in South Africa, working with **C#, ASP.NET Core, Microsoft Azure and AWS**.
+ 
+- **Advanced Diploma in Application Development** (Cum Laude)
+- **Diploma in Information Technology (Software Development)**
+- **Postgraduate Diploma in Information Technology** (in progress, Central University of Technology)
+I enjoy building reliable, well-documented software and cloud solutions, with a strong interest in the Microsoft (.NET) stack.
+ 
 ---
-
-## 🛠️ Technologies Used
-
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Styling:** Custom CSS, Responsive Design
-- **Tools:** Git, GitHub, VS Code
-- **Hosting:** Netlify
-- **Version Control:** Git & GitHub
-
+ 
+## 🎓 Certifications
+ 
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure AI Fundamentals (AI-901)
 ---
-
+ 
+## 🛠️ Skills
+ 
+- **Languages & Frameworks:** C#, ASP.NET Core MVC, Entity Framework Core, Java, Kotlin, PHP
+- **Cloud:** Microsoft Azure, AWS, Azure Table Storage, Linux
+- **Databases:** SQL, MySQL, Oracle DB, MongoDB, Firebase
+- **Web:** HTML5, CSS3, JavaScript, Bootstrap, React
+- **Tools & Practices:** Git, GitHub, Docker, Agile Scrum, Microsoft 365, technical documentation
+---
+ 
 ## 📂 Featured Projects
-
-Some of the projects showcased on this portfolio include:
-
-- **Disability Awareness Website**  
-  Educational website focused on disability awareness and accessibility.  
-  🔗 https://github.com/Tswelo23/DisabilityAwareness
-
-- **Agriculture Website**  
-  A responsive website designed for agriculture-related services and content.  
-  🔗 https://github.com/Tswelo23/AgricultureWebsite
-
-- **KhumaloCrafts**  
-  A craft-based website showcasing handmade products with a modern layout.  
+ 
+- **KhumaloCraft E-commerce Platform** – E-commerce platform for handmade crafts (ASP.NET Core, C#, Entity Framework, Azure)
   🔗 https://github.com/Tswelo23/KhumaloCrafts
-
+- **Municipal Services Application** – Service-request app using Binary Search Trees, Graphs and Min-Heaps with Azure Table Storage (C#)
+  🔗 <!-- add repo link -->
+- **TDTS Digital Audit Tool** – Digital workplace compliance assessments covering accessibility requirements
+  🔗 <!-- add repo link, or note that it is private -->
+- **Disability Awareness Website** – Responsive, accessibility-minded educational website (HTML, CSS, JavaScript)
+  🔗 https://github.com/Tswelo23/DisabilityAwareness
+- **MediCare** – Healthcare platform for appointment booking and medication tracking
+  🔗 <!-- add repo link -->
 ---
-
+ 
+## 💼 Experience
+ 
+- **Cloud Engineer Intern – Zensar Technologies** (current): Azure, AWS, Linux and technical documentation
+- **IT Intern – Tshirologo Disability Group**: end-user support (Microsoft 365 / Teams), website updates, asset tracking
+---
+ 
+## 🧰 Built With
+ 
+- **Frontend:** HTML5, CSS3, JavaScript (no framework)
+- **Styling:** Custom CSS (`style.css` plus `style-additions.css`), responsive design
+- **Contact form:** Formspree
+- **Hosting:** Netlify
+- **Version control:** Git & GitHub
+---
+ 
 ## 📬 Contact
-
-You can reach me through the contact form on my website or directly via:
-
-- **Email:** tswelo33@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/tswelopele-setshedi-2913462a0/  
-- **GitHub:** https://github.com/Tswelo23  
-
+ 
+- **Email:** tswelo33@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/tswelopele-setshedi-2913462a0/
+- **GitHub:** https://github.com/Tswelo23
 ---
-
+ 
 ## 🚀 Deployment
-
-This website is:
-- **Version controlled on GitHub**
-- **Continuously deployed on Netlify**
-
-Any updates pushed to the `main` branch are automatically deployed.
-
+ 
+This website is version controlled on GitHub and continuously deployed on Netlify.
+Any updates pushed to the `main` branch are deployed automatically.
+ 
 ---
-
+ 
 ## 📄 License
-
-This project is for personal and portfolio use.  
+ 
+This project is for personal and portfolio use.
 Feel free to explore the code, but please give credit if you reuse any part of it.
-
----
-
+ 
 ⭐ If you like this project, feel free to star the repository!
+ 
